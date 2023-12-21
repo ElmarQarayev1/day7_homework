@@ -1,0 +1,15 @@
+/Users/elmar/Desktop/csharpagiris/bigDigit/bigDigit/bin/Debug/net7.0/bigDigit
+/Users/elmar/Desktop/csharpagiris/bigDigit/bigDigit/bin/Debug/net7.0/bigDigit.deps.json
+/Users/elmar/Desktop/csharpagiris/bigDigit/bigDigit/bin/Debug/net7.0/bigDigit.runtimeconfig.json
+/Users/elmar/Desktop/csharpagiris/bigDigit/bigDigit/bin/Debug/net7.0/bigDigit.dll
+/Users/elmar/Desktop/csharpagiris/bigDigit/bigDigit/bin/Debug/net7.0/bigDigit.pdb
+/Users/elmar/Desktop/csharpagiris/bigDigit/bigDigit/obj/Debug/net7.0/bigDigit.csproj.AssemblyReference.cache
+/Users/elmar/Desktop/csharpagiris/bigDigit/bigDigit/obj/Debug/net7.0/bigDigit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmar/Desktop/csharpagiris/bigDigit/bigDigit/obj/Debug/net7.0/bigDigit.AssemblyInfoInputs.cache
+/Users/elmar/Desktop/csharpagiris/bigDigit/bigDigit/obj/Debug/net7.0/bigDigit.AssemblyInfo.cs
+/Users/elmar/Desktop/csharpagiris/bigDigit/bigDigit/obj/Debug/net7.0/bigDigit.csproj.CoreCompileInputs.cache
+/Users/elmar/Desktop/csharpagiris/bigDigit/bigDigit/obj/Debug/net7.0/bigDigit.dll
+/Users/elmar/Desktop/csharpagiris/bigDigit/bigDigit/obj/Debug/net7.0/refint/bigDigit.dll
+/Users/elmar/Desktop/csharpagiris/bigDigit/bigDigit/obj/Debug/net7.0/bigDigit.pdb
+/Users/elmar/Desktop/csharpagiris/bigDigit/bigDigit/obj/Debug/net7.0/bigDigit.genruntimeconfig.cache
+/Users/elmar/Desktop/csharpagiris/bigDigit/bigDigit/obj/Debug/net7.0/ref/bigDigit.dll

@@ -1,0 +1,15 @@
+/Users/elmar/Desktop/csharpagiris/educationType/educationType/bin/Debug/net7.0/educationType
+/Users/elmar/Desktop/csharpagiris/educationType/educationType/bin/Debug/net7.0/educationType.deps.json
+/Users/elmar/Desktop/csharpagiris/educationType/educationType/bin/Debug/net7.0/educationType.runtimeconfig.json
+/Users/elmar/Desktop/csharpagiris/educationType/educationType/bin/Debug/net7.0/educationType.dll
+/Users/elmar/Desktop/csharpagiris/educationType/educationType/bin/Debug/net7.0/educationType.pdb
+/Users/elmar/Desktop/csharpagiris/educationType/educationType/obj/Debug/net7.0/educationType.csproj.AssemblyReference.cache
+/Users/elmar/Desktop/csharpagiris/educationType/educationType/obj/Debug/net7.0/educationType.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmar/Desktop/csharpagiris/educationType/educationType/obj/Debug/net7.0/educationType.AssemblyInfoInputs.cache
+/Users/elmar/Desktop/csharpagiris/educationType/educationType/obj/Debug/net7.0/educationType.AssemblyInfo.cs
+/Users/elmar/Desktop/csharpagiris/educationType/educationType/obj/Debug/net7.0/educationType.csproj.CoreCompileInputs.cache
+/Users/elmar/Desktop/csharpagiris/educationType/educationType/obj/Debug/net7.0/educationType.dll
+/Users/elmar/Desktop/csharpagiris/educationType/educationType/obj/Debug/net7.0/refint/educationType.dll
+/Users/elmar/Desktop/csharpagiris/educationType/educationType/obj/Debug/net7.0/educationType.pdb
+/Users/elmar/Desktop/csharpagiris/educationType/educationType/obj/Debug/net7.0/educationType.genruntimeconfig.cache
+/Users/elmar/Desktop/csharpagiris/educationType/educationType/obj/Debug/net7.0/ref/educationType.dll

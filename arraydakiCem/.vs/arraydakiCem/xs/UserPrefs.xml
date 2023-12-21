@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{8CAC7384-E489-445D-9897-ADD7B6FD676E}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="arraydakiCem/Program.cs">
+    <Files>
+      <File FileName="arraydakiCem/Program.cs" Line="23" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="arraydakiCem" expanded="True">
+            <Node name="arraydakiCem" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.arraydakiCem PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

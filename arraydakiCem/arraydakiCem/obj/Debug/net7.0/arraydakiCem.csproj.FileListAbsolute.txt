@@ -1,0 +1,15 @@
+/Users/elmar/Desktop/csharpagiris/arraydakiCem/arraydakiCem/bin/Debug/net7.0/arraydakiCem
+/Users/elmar/Desktop/csharpagiris/arraydakiCem/arraydakiCem/bin/Debug/net7.0/arraydakiCem.deps.json
+/Users/elmar/Desktop/csharpagiris/arraydakiCem/arraydakiCem/bin/Debug/net7.0/arraydakiCem.runtimeconfig.json
+/Users/elmar/Desktop/csharpagiris/arraydakiCem/arraydakiCem/bin/Debug/net7.0/arraydakiCem.dll
+/Users/elmar/Desktop/csharpagiris/arraydakiCem/arraydakiCem/bin/Debug/net7.0/arraydakiCem.pdb
+/Users/elmar/Desktop/csharpagiris/arraydakiCem/arraydakiCem/obj/Debug/net7.0/arraydakiCem.csproj.AssemblyReference.cache
+/Users/elmar/Desktop/csharpagiris/arraydakiCem/arraydakiCem/obj/Debug/net7.0/arraydakiCem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmar/Desktop/csharpagiris/arraydakiCem/arraydakiCem/obj/Debug/net7.0/arraydakiCem.AssemblyInfoInputs.cache
+/Users/elmar/Desktop/csharpagiris/arraydakiCem/arraydakiCem/obj/Debug/net7.0/arraydakiCem.AssemblyInfo.cs
+/Users/elmar/Desktop/csharpagiris/arraydakiCem/arraydakiCem/obj/Debug/net7.0/arraydakiCem.csproj.CoreCompileInputs.cache
+/Users/elmar/Desktop/csharpagiris/arraydakiCem/arraydakiCem/obj/Debug/net7.0/arraydakiCem.dll
+/Users/elmar/Desktop/csharpagiris/arraydakiCem/arraydakiCem/obj/Debug/net7.0/refint/arraydakiCem.dll
+/Users/elmar/Desktop/csharpagiris/arraydakiCem/arraydakiCem/obj/Debug/net7.0/arraydakiCem.pdb
+/Users/elmar/Desktop/csharpagiris/arraydakiCem/arraydakiCem/obj/Debug/net7.0/arraydakiCem.genruntimeconfig.cache
+/Users/elmar/Desktop/csharpagiris/arraydakiCem/arraydakiCem/obj/Debug/net7.0/ref/arraydakiCem.dll
